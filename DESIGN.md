@@ -19,9 +19,23 @@ Students in today's generation are very close to IT media, regardless of how the
 * CSS
 
 ## Preparation Step
-1. **home.html**
+**home.html**
+![home](home_html.png)
+------------------------
+**styles.css**
+![styles](styles_css.png)
+------------------------
+**profile.html**
+![profile](profile_html.png)
+------------------------
+**quiz.html**
+![quiz](quiz_html.png)
+------------------------
+**input_quiz.html**
+![input](input-quiz_html.png)
+------------------------
 
-2. **styles.css**
-3. **profile.html**
-4. **quiz.html**
-5. **input_quiz.html**
+## Next Step
+***login button and form
+
+
